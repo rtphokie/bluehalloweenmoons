@@ -1,5 +1,6 @@
 # Blue Moons and Halloween
-1900-2099 for the eastern time zone.
+1900-2099 for the eastern time zone.  As seen Purdue University's 
+ [Superheros of Science](https://www.youtube.com/watch?v=YfG8Miagif0) podcast
 
 ## Halloween Full Moons:
 1. Wed Oct 31 23:45:10 1906
