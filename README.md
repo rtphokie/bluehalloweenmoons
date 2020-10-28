@@ -3,15 +3,19 @@
  [Superheroes of Science](https://www.youtube.com/watch?v=YfG8Miagif0) podcast
 
 ## Halloween Full Moons:
-1. Wed Oct 31 23:45:10 1906
-1. Sat Oct 31 12:16:08 1925
-1. Tue Oct 31 09:35:06 1944
-1. Mon Oct 31 01:03:37 1955
-1. Sat Oct 31 10:49:09 2020
-1. Mon Oct 31 17:36:19 2039
-1. Thu Oct 31 07:54:52 2058
-1. Sun Oct 31 05:37:32 2077
-1. Wed Oct 31 06:17:54 2096
+
+| year | Eastern | Central | Mountain | Pacific | Alaska | Hawaii |
+|---|---|---|---|---|---|---|
+| 1906-10-31 |  11:45 PM | 10:45 PM | 09:45 PM | 08:45 PM | 06:45 PM | 06:15 PM |
+| 1925-10-31 |  12:16 PM | 11:16 AM | 10:16 AM | 09:16 AM | 07:16 AM | 06:46 AM |
+| 1944-10-31 |  09:35 AM | 08:35 AM | 07:35 AM | 06:35 AM | 04:35 AM | 04:05 AM |
+| 1955-10-31 |  01:03 AM | 12:03 AM | | | | |
+| 2001-10-31 |  | 11:41 PM | 10:41 PM | 09:41 PM | 08:41 PM | 07:41 PM |
+| 2020-10-31 |  10:49 AM | 09:49 AM | 08:49 AM | 07:49 AM | 06:49 AM | 04:49 AM |
+| 2039-10-31 |  05:36 PM | 04:36 PM | 03:36 PM | 02:36 PM | 01:36 PM | 12:36 PM |
+| 2058-10-31 |  07:54 AM | 06:54 AM | 05:54 AM | 04:54 AM | 03:54 AM | 02:54 AM |
+| 2077-10-31 |  05:37 AM | 04:37 AM | 03:37 AM | 02:37 AM | 01:37 AM | 12:37 AM |
+| 2096-10-31 |  06:17 AM | 05:17 AM | 04:17 AM | 03:17 AM | 02:17 AM | 01:17 AM |
 
 mean days between Oct 31 blue moons: 8674.125
 
