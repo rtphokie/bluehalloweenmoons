@@ -75,7 +75,6 @@ class MyTestCase(unittest.TestCase):
 
     def test_blue_moons(self):
         tzlist = ['Eastern', 'Central', 'Mountain', 'Pacific', 'Alaska', 'Hawaii']
-        # tzlist = ['Eastern', 'Central']
         oct31only=True
         mdtext = build_md_table(tzlist, oct31only=True, startyear=1900, endyear=2099)
         print(mdtext)
@@ -83,7 +82,6 @@ class MyTestCase(unittest.TestCase):
 
     def test_oct_31_blue_moons(self):
         tzlist = ['Eastern', 'Central', 'Mountain', 'Pacific', 'Alaska', 'Hawaii']
-        # tzlist = ['Eastern', 'Central']
         oct31only=True
         mdtext = build_md_table(tzlist, oct31only=False, startyear=1900, endyear=2099)
         print(mdtext)
