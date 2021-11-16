@@ -8,9 +8,7 @@ from pprint import pprint
 
 ts = api.load.timescale(builtin=True)
 load = api.Loader('/var/data')
-# eph = load('de421.bsp')
-eph = load('de430t.bsp')
-# eph = load('de406.bsp')
+eph = load('de430t.bsp')  # good middle ground choice for ephemeris, covers 1900s-2000s well enough, adjust if you change the time period reported on
 
 @simple_cache.cache_it(filename="blue_moon.cache", ttl=18000)
 def blue_moons(startyear, endyear, oct31only=False, zone=timezone('UTC')):
